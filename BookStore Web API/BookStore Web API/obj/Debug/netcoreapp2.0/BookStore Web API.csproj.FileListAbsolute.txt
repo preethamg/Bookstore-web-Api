@@ -1,0 +1,11 @@
+E:\Projects\Git\BookStore Web API\BookStore Web API\bin\Debug\netcoreapp2.0\BookStore Web API.deps.json
+E:\Projects\Git\BookStore Web API\BookStore Web API\bin\Debug\netcoreapp2.0\BookStore Web API.runtimeconfig.json
+E:\Projects\Git\BookStore Web API\BookStore Web API\bin\Debug\netcoreapp2.0\BookStore Web API.runtimeconfig.dev.json
+E:\Projects\Git\BookStore Web API\BookStore Web API\bin\Debug\netcoreapp2.0\BookStore Web API.dll
+E:\Projects\Git\BookStore Web API\BookStore Web API\bin\Debug\netcoreapp2.0\BookStore Web API.pdb
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.csprojResolveAssemblyReference.cache
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.csproj.CoreCompileInputs.cache
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.AssemblyInfoInputs.cache
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.AssemblyInfo.cs
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.dll
+E:\Projects\Git\BookStore Web API\BookStore Web API\obj\Debug\netcoreapp2.0\BookStore Web API.pdb
